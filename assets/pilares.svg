@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Três pilares: base em Eletrônica, Java e Backend, Cibersegurança">
+  <title>Base em Eletrônica · Java e Backend · Cibersegurança</title>
+  <rect width="900" height="230" rx="18" fill="#EDE3DA"/>
+
+  <!-- Card 1 -->
+  <rect x="24" y="24" width="270" height="182" rx="14" fill="#FFF8F5" stroke="#F1B9C4" stroke-width="1.5"/>
+  <text x="46" y="68" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#D9435E">01</text>
+  <text x="46" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#3B2A2E">Base em Eletrônica</text>
+  <text x="46" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#6B5258">Raciocínio lógico e curiosidade</text>
+  <text x="46" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#6B5258">sobre como os sistemas</text>
+  <text x="46" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#6B5258">funcionam por dentro.</text>
+
+  <!-- Card 2 -->
+  <rect x="315" y="24" width="270" height="182" rx="14" fill="#FFF8F5" stroke="#F1B9C4" stroke-width="1.5"/>
+  <text x="337" y="68" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#D9435E">02</text>
+  <text x="337" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#3B2A2E">Java e Backend</text>
+  <text x="337" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#6B5258">Aprendendo no curso de ADS</text>
+  <text x="337" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#6B5258">e no Geração Caldeira,</text>
+  <text x="337" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#6B5258">com projetos práticos.</text>
+
+  <!-- Card 3 -->
+  <rect x="606" y="24" width="270" height="182" rx="14" fill="#FFF8F5" stroke="#F1B9C4" stroke-width="1.5"/>
+  <text x="628" y="68" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#D9435E">03</text>
+  <text x="628" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#3B2A2E">Cibersegurança</text>
+  <text x="628" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#6B5258">Meu outro foco: entender</text>
+  <text x="628" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#6B5258">como proteger o que</text>
+  <text x="628" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#6B5258">construo desde o início.</text>
+</svg>

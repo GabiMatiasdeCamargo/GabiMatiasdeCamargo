@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-label="Meu caminho: Eletrônica, ADS, Java, Backend e Cibersegurança">
+  <title>Meu caminho: Eletrônica → ADS → Java → Backend e Cibersegurança</title>
+  <rect width="900" height="190" rx="18" fill="#EDE3DA"/>
+
+  <!-- linha do tempo -->
+  <line x1="120" y1="80" x2="780" y2="80" stroke="#E7A3B1" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- nó 1 -->
+  <circle cx="120" cy="80" r="16" fill="#FFF8F5" stroke="#D9435E" stroke-width="4"/>
+  <text x="120" y="130" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#3B2A2E">Eletrônica</text>
+  <text x="120" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B5258">Fundação Liberato</text>
+
+  <!-- nó 2 -->
+  <circle cx="340" cy="80" r="16" fill="#FFF8F5" stroke="#D9435E" stroke-width="4"/>
+  <text x="340" y="130" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#3B2A2E">ADS</text>
+  <text x="340" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B5258">Análise e Desenvolvimento</text>
+  <text x="340" y="169" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B5258">de Sistemas</text>
+
+  <!-- nó 3 -->
+  <circle cx="560" cy="80" r="16" fill="#FFF8F5" stroke="#D9435E" stroke-width="4"/>
+  <text x="560" y="130" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#3B2A2E">Java</text>
+  <text x="560" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B5258">Geração Caldeira</text>
+
+  <!-- nó 4 (foco) -->
+  <circle cx="780" cy="80" r="20" fill="#D9435E"/>
+  <circle cx="780" cy="80" r="8" fill="#FFF8F5"/>
+  <text x="780" y="130" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#B8324B">Backend + Segurança</text>
+  <text x="780" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B5258">meu foco</text>
+
+  <text x="450" y="34" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#B8324B" letter-spacing="2">MEU CAMINHO</text>
+</svg>
